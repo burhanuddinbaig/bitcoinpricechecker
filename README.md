@@ -1,3 +1,3 @@
-A simple bitcoin price checker with scraping.
-
 # bitcoinpricechecker
+
+A simple bitcoin price checker with scraping.
